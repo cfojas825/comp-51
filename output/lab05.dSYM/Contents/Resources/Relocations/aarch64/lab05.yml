@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/clarkfojas/Documents/GitHub/comp-51/output/lab05'
+relocations:     []
+...

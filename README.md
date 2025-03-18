@@ -1,2 +1,5 @@
-# comp-51
-jhguguh
+include<iostream>
+
+int main(){
+    std::cout << "hello";
+}
